@@ -14,7 +14,7 @@
   "deploy": {
     "production": {
       "user": "dappnode_manager",
-      "host": ["192.169.136.56"],
+      "host": ["39.106.181.190"],
       "port": "22",
       "ref": "origin/master",
       "repo": "git@github.com:coinmini/website.git",
